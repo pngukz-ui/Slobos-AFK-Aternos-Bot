@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "NewEra-yGt9.aternos.me",
-    "port":26684,
+    "port": 26684,
     "version": "1.21.11",
     "try-creative": true
   },
